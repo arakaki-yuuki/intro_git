@@ -1,2 +1,3 @@
 セカンドテキストだよ
 .git status
+.git diff
